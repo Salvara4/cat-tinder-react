@@ -39,6 +39,7 @@ class CatIndex extends Component {
           <h2>Cat List</h2>
           <div className="pull-right">
             <Link to="/add">Add</Link>
+            <Link to="/user_add">Sign Up</Link>
           </div>
         </div>
         <div className="cat-list row">

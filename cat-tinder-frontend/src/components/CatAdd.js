@@ -9,8 +9,8 @@ class CatAdd extends Component {
       cat: {
         color: '',
         breed: '',
-        gender: '',
-        habitat: '',
+        gender: 'Female',
+        habitat: 'Indoor',
         personality: '',
         age: 1
       },
